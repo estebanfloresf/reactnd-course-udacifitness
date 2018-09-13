@@ -21,6 +21,14 @@ patch:
   'npm:lodash:20180130':
     - react-native > plist > xmlbuilder > lodash:
         patched: '2018-08-01T15:05:57.891Z'
+    - react-native > metro > metro-visualizer > cytoscape-dagre > dagre > lodash:
+        patched: '2018-09-13T16:47:28.357Z'
+    - react-native > metro > metro-visualizer > cytoscape-dagre > dagre > graphlib > lodash:
+        patched: '2018-09-13T16:47:28.357Z'
+    - react-native > metro > metro-config > metro > metro-visualizer > cytoscape-dagre > dagre > lodash:
+        patched: '2018-09-13T16:47:28.357Z'
+    - react-native > metro > metro-config > metro > metro-visualizer > cytoscape-dagre > dagre > graphlib > lodash:
+        patched: '2018-09-13T16:47:28.357Z'
   'npm:mime:20170907':
     - react-native > connect > serve-static > send > mime:
         patched: '2018-08-01T15:05:57.891Z'
